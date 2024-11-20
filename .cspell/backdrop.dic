@@ -184,6 +184,7 @@ Htmlto
 httpauth
 HTTPAUTH
 HTTPGET
+HWLDF
 ical
 ICAL
 IDNA
@@ -335,6 +336,7 @@ padder
 pageno
 pagenum
 pagerpieces
+PHPGGC
 phptemplate
 phpwiki
 plid
